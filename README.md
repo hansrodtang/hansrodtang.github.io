@@ -12,4 +12,4 @@ Powered by [Hugo](github.com/spf13/hugo).
 
 All code licensed under the [MIT license](LICENSE.MIT.md).
 
-Text and mulitmedia content produced by myself is licensed under the [Creative Commons BY-SA license](LICENSE.CC.md).
+Text and multimedia content produced by myself is licensed under the [Creative Commons BY-SA license](LICENSE.CC.md).
