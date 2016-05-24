@@ -1,6 +1,5 @@
 # hansrodtang.com
 
- [![Issues](https://img.shields.io/github/issues/hansrodtang/runcom.svg?style=flat)](https://github.com/hansrodtang/runcom/issues) [![Tip](https://img.shields.io/gratipay/hansrodtang.svg?style=flat)](https://gratipay.com/hansrodtang/)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 [![License](http://img.shields.io/badge/license-Creative_Commons-yellow.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat)](https://gitter.im/hansrodtang/hansrodtang.github.io
